@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "116733048296",
+    "firebase_url": "https://evaluacion2-te-default-rtdb.firebaseio.com",
+    "project_id": "evaluacion2-te",
+    "storage_bucket": "evaluacion2-te.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116733048296:android:807920e884698d6c63a05d",
+        "android_client_info": {
+          "package_name": "com.rocio.poma.evaluacion2_tecnologiasemergentes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116733048296-sul5aimreh821vlc2i5vtgugqj5ilnrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACV2v-RACuCwfqclo1ecECGYg-wh3tbIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116733048296-sul5aimreh821vlc2i5vtgugqj5ilnrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
